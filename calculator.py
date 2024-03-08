@@ -98,7 +98,6 @@ BoxLayout:
         MDFillRoundFlatButton:
             text: '='
             on_press: app.calculate_result()
-            icon: 'equal'
 '''
 
 class CalculatorApp(MDApp):
